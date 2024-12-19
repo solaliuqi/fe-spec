@@ -3,12 +3,19 @@
   "version": "0.0.1",
   "description": "文档规范",
   "author": "solaliuqi <chelsealiuqi@163.com>",
-  "homepage": "",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "homepage": "https://github.com/solaliuqi/fe-spec#readme",
   "license": "ISC",
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+    "url": "git+https://github.com/solaliuqi/fe-spec"
+  },
+  "bugs": {
+    "url": "https://github.com/encode-studio-fe/fe-spec/issues"
   },
   "peerDependencies": {
     "markdownlint": "^0.28.1"

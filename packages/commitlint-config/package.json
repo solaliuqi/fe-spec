@@ -1,16 +1,21 @@
 {
   "name": "commitlint-config",
   "version": "0.0.1",
-  "description": "> TODO: description",
+  "description": "印客学院 Git规范",
   "author": "solaliuqi <chelsealiuqi@163.com>",
-  "homepage": "",
   "license": "ISC",
   "main": "index.js",
-  "files": [
-    "lib"
+  "homepage": "https://github.com/solaliuqi/fe-spec#readme",
+  "keywords": [
+    "commit",
+    "lint"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solaliuqi/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solaliuqi/fe-spec/issues"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"

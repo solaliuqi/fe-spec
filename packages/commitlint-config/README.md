@@ -16,7 +16,7 @@ npm install commitlint-config @commitlint/cli --save-dev
 
 ```javascript
 module.exports = {
-	extends: ['encode-fe-commitlint-config'],
+	extends: ['commitlint-config'],
 };
 ```
 
