@@ -1,0 +1,16 @@
+{
+  "name": "markdownlint-config",
+  "version": "0.0.1",
+  "description": "文档规范",
+  "author": "solaliuqi <chelsealiuqi@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
