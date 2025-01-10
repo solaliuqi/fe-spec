@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "CSS规范",
+  "keywords": [
+    "style",
+    "lint"
+  ],
+  "author": "solaliuqi <chelsealiuqi@163.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "stylelint": "^16.12.0",
+    "stylelint-scss": "^6.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solaliuqi/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solaliuqi/fe-spec/issues"
+  }
+}
