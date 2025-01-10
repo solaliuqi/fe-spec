@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config",
+  "name": "77stylelint-config",
   "version": "0.0.5",
   "main": "index.js",
   "description": "CSS规范",
@@ -23,5 +23,6 @@
   },
   "bugs": {
     "url": "https://github.com/solaliuqi/fe-spec/issues"
-  }
+  },
+  "gitHead": "773c17e1cbc691a31f5b044af3abf83eed0d3a84"
 }

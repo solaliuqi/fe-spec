@@ -14,5 +14,6 @@
     "@typescript-eslint/parser": "^8.19.1",
     "eslint": "^9.17.0",
     "eslint-config-egg": "^14.0.0"
-  }
+  },
+  "gitHead": "773c17e1cbc691a31f5b044af3abf83eed0d3a84"
 }
