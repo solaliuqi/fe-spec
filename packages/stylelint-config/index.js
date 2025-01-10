@@ -2,7 +2,6 @@ const { rules, plugins, ignoreFiles } = require("../../../fe-spec/packages/style
 
 module.exports={
     defaultSeverity: "warning",
-    //通过插件的形式引入npm包
     plugins: ['stylelint-scss'],
     rules:{
         /**
