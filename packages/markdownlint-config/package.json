@@ -1,6 +1,6 @@
 {
   "name": "77markdownlint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "文档规范",
   "author": "solaliuqi <chelsealiuqi@163.com>",
   "keywords": [
@@ -20,5 +20,5 @@
   "peerDependencies": {
     "markdownlint": "^0.28.1"
   },
-  "gitHead": "773c17e1cbc691a31f5b044af3abf83eed0d3a84"
+  "gitHead": "1f3bd403a610b6cf7c745a825e80490c198cf5d6"
 }
